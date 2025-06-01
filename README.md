@@ -6,6 +6,7 @@ This project fetches and visualizes the latest COVID-19 statistics from a public
 
 - Retrieves up-to-date COVID-19 data using the RapidAPI COVID-193 API.
 - Displays:
+  - Active COVID-19 Cases by Continent 
   - Top 10 countries by COVID-19 cases per million.
   - Top 10 countries by COVID-19 tests per million.
   - Top 10 Asian countries by COVID-19 tests per million.
