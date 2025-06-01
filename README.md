@@ -13,9 +13,3 @@ This project fetches and visualizes the latest COVID-19 statistics from a public
   - Top 10 African countries by COVID-19 deaths per million.
 - Visualizes data with clear horizontal bar charts using Matplotlib and Seaborn.
 
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone <repository_url>
-   cd <repository_folder>
